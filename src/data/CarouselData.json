@@ -1,36 +1,36 @@
 {
     "slides": [
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/messi.png",
+            "alt": "image 1"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/benzema.png",
+            "alt": "image 2"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/cristiano.png",
+            "alt": "image 3"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/diaz.png",
+            "alt": "image 4"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/Pedri.png",
+            "alt": "image 5"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/yamal.png",
+            "alt": "image 6"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/haaland.png",
+            "alt": "image 7"
         },
         {
-            "src": "",
-            "alt": ""
+            "src": "/images/felix.png",
+            "alt": "image 8"
         }
     ]
 }
